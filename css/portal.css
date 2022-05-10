@@ -1,11 +1,11 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 
 html {
-    background-color: lightgray;
+    background-color: rgb(152, 181, 189);
     /*font-family: 'Quicksand', sans-serif; */
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Macondo', cursive;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -23,7 +23,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     overflow: auto;
 }
 
